@@ -1,6 +1,6 @@
 This project was done as the final project of the "Supervised Machine Learning: Regression" course given by IBM on Coursera. 
 
-I finished this course with Honours degree. [Click here](https://coursera.org/verify/8F8YLGBDTLTZ) to view the certificate.
+I finished this course with an Honors degree. [Click here](https://coursera.org/verify/8F8YLGBDTLTZ) to view the certificate.
 
 <br>
 
